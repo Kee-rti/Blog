@@ -5,13 +5,13 @@ posts = [
         'author': 'Keerti',
         'title': 'blog-post1',
         'content': 'first post content',
-        'date-posted': '6 june,2024'
+        'date_posted': '6 june,2024'
     },
     {
         'author': 'saurabh',
         'title': 'blog-post2',
         'content': 'second post content',
-        'date-posted': '5 june,2024'
+        'date_posted': '5 june,2024'
     }
 ]
 
